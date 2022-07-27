@@ -15,3 +15,7 @@
 .img {
     filter: brightness(30%);
 }
+
+.hero {
+    margin-top: 95px;
+}
