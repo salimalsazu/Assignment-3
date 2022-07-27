@@ -6,3 +6,8 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.caption {
+    top: 50%;
+    transform: translateY(-50%);
+}
